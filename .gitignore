@@ -1,0 +1,24 @@
+# 编译生成的文件
+*.exe
+*.o
+*.obj
+*.out
+
+# IDE 相关文件
+.vscode/
+*.swp
+*.swo
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# 数据库文件
+*.csv
+
+# 其他
+.DS_Store
+Thumbs.db 
